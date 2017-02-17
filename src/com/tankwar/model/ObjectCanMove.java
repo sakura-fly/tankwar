@@ -8,7 +8,7 @@ public class ObjectCanMove implements ObjectCanMoveImpl{
 	@Override
 	public void move(int speed) {
 		// TODO Auto-generated method stub
-		
+		//ddddddd333
 	}
 
 }
